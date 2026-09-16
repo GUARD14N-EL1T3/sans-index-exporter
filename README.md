@@ -20,3 +20,7 @@ options:
   -h, --help       show this help message and exit
   --output OUTPUT
 ```
+
+## Disclaimer
+
+Claude was used to make the initial draft of the script. Script was subsequently reviewed line-by-line and adjusted to make it more human-readable and fit my coding style.
